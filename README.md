@@ -60,7 +60,7 @@ Biblioteca random (já incluída na instalação padrão do Python)
 - Os dados gerados (acertos e erros) são registrados no arquivo de ranking associado ao nome do jogador.
 - Um ranking geral pode ser acessado no menu principal.
 ## Estrutura do projeto
-jogo_da_forca
+jogoDaForca
 
 │-- 📄 main.py           # Arquivo principal para execução do jogo
 
